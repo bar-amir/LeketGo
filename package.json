@@ -21,7 +21,7 @@
     "file-system": "^2.2.2",
     "firebase": "^6.0.4",
     "firebase-functions": "^3.0.1",
-    "next": "^8.1.0",
+    "next": "^9.3.2",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "node-sass": "^4.14.1",
     "react": "^16.8.6",
